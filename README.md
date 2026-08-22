@@ -149,7 +149,7 @@
 ### 🏏 IPL Analysis Dashboard
 
 <a href="https://github.com/pradeeprajbhar1/IPL_Analysis_2008-2025_Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeeprajbhar1&repo=IPL_Analysis_2008-2025_Dashboard&hide_border=true" alt="IPL Analysis Dashboard"/>
+<img src="https://github.com/pradeeprajbhar1/IPL_Analysis_2008-2025_Dashboard/blob/main/IPL%20Analysis%20(2008%20-%202025)%20Snapshot.jpg" alt="IPL Analysis Dashboard"/>
 </a>
 
 **Tech:** Power BI • Data Analytics • Data Visualization
