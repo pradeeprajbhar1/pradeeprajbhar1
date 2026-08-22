@@ -161,7 +161,7 @@
 ### 📱 PhonePe Analysis Dashboard
 
 <a href="https://github.com/pradeeprajbhar1/PhonePe_Analysis_Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeeprajbhar1&repo=PhonePe_Analysis_Dashboard&hide_border=true" alt="PhonePe Analysis Dashboard"/>
+<img src="https://github.com/pradeeprajbhar1/PhonePe_Analysis_Dashboard/blob/main/PhonePe_Analysis_Dashboard%20Snapshot.jpg" alt="PhonePe Analysis Dashboard"/>
 </a>
 
 **Tech:** Power BI • Data Analytics • Visualization
