@@ -184,13 +184,13 @@
 
 <td width="50%">
 
-### 🛒 E-Commerce Management System
+### 🛒 E-Commerce Sales Dashboard
 
 <a href="https://github.com/pradeeprajbhar1">
-<img src="https://github-readme-stats.vercel.app/api?username=pradeeprajbhar1&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Projects"/>
+<img src="https://github.com/pradeeprajbhar1/E-commerce-Sales-Dashboard/blob/main/E-commerce%20Sales%20Dashboard%20Snapshot.jpg"/>
 </a>
 
-**Tech:** JavaScript • Node.js • Express.js • MySQL
+**Tech:** Power BI • Data Analytics • Visualization • Microsoft Excel
 
 </td>
 </tr>
