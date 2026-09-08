@@ -175,7 +175,7 @@
 ### 🌐 Personal Portfolio
 
 <a href="https://port-folio-pradeep.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeeprajbhar1&repo=Portfolio&hide_border=true" alt="Portfolio"/>
+<img src="https://github.com/pradeeprajbhar1/portfolio-frontend/blob/main/portfolio%20web%20snapshot.png"/>
 </a>
 
 **Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
